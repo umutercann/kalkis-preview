@@ -1,0 +1,1 @@
+.map-style{gap:var(--space-3);justify-items:start;display:grid}.map-style>.toggle,.map-style__note,.map-style__status{justify-self:stretch}.map-style__legend{font-size:var(--fs-small);font-weight:var(--fw-semibold)}.map-style__note{color:var(--color-text-muted);font-size:var(--fs-small)}

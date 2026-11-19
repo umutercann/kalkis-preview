@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <!-- Kalkış favicon · DESIGN.md §17. icon.svg ile aynı işaret, ama 16/32 px sekme boyutu için
+       piktogram tuvalin %83'ünü kaplar ve doğrudan 24 ızgarada durur (piksel ızgarasına oturur:
+       24/48 px'te tam birim, 16/32 px'te zemin çubuğu 1.6/3.2 px). Dikey merkez: -1.625 birim. -->
+  <rect width="24" height="24" fill="#FFC72C"/>
+  <g fill="#1B1F23" transform="translate(0 -1.625)">
+    <path transform="translate(0 -1.8) rotate(-15 12 12)" d="M3 10.5H18.6C20.5 10.5 21.6 11.1 21.6 12C21.6 12.9 20.5 13.5 18.6 13.5H6.4C5.5 13.5 4.8 13.1 4.4 12.5ZM3 10.6L4.4 5.4H6.5L8.8 10.6ZM10.2 13.4H14.4L10.8 18.4H8.3ZM3.6 12.2H7.4L6 14.3H4.4Z"/>
+    <path d="M2 19.6H22V22H2Z"/>
+  </g>
+</svg>
